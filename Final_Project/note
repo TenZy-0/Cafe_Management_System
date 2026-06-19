@@ -1,0 +1,4 @@
+When you chance any code please type:
+gcc main.c sale_data.c menu_management.c Inventory.c FinanceSum.c -o cafe
+In terminal.
+And .\cafe to run the code
